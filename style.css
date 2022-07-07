@@ -1,0 +1,99 @@
+
+body {
+    background-image: url("image/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    display:block;
+    margin-block: auto;
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial;
+    font-style: bold;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: ;
+}
+
+.est {
+    text-align: center;
+    font-family: arial;
+    font-style: italic;
+}
+
+hr {
+    display: block;
+    width: 700px;
+    align-items: center;
+    height: 5px;
+    background-color: rgb(165, 126, 42);
+    
+}
+
+h2  {
+    text-align: center;
+    font-family: arial;
+    font-size: 30px;
+}
+img {
+    display: block;
+    max-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.image1, .image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+}
+
+article {
+    font-size: 15px;
+    margin-bottom: -20px;
+}
+
+.item p {
+    display: inline-block;
+    font-family: Arial;
+
+}
+
+.flavor {
+    margin-right: 50%;
+    width: 30%;
+    font-weight: bold;
+}
+
+
+.menu {
+    background-color: rgba(235, 190, 132, 0.404);
+    margin: 50px 200px 50px 200px;
+    padding-bottom: .05px;
+    padding-top: .05px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.website{
+    color: black; 
+    text-align: center;
+    
+}
+
+.address {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+
